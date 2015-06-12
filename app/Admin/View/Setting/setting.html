@@ -1,0 +1,239 @@
+<extend name="Public:base"/>
+<block name='title'>基础设置</block>
+<block name='main-content'>
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div id="breadcrumbs" class="breadcrumbs">
+
+				<ul class="breadcrumb">
+					<li> <i class="ace-icon fa fa-home home-icon"></i>
+						<a href="#">{:L('home')}</a>
+					</li>
+					<li class="active highlight">{:L('basic_setting')}</li>
+				</ul>
+			</div>
+			<div class="page-content">
+				<div class="page-header">
+					<h1>
+						{:L('basic_setting')}
+						<small> <i class="ace-icon fa fa-angle-double-right"></i>
+							{:L('basic_more_setting')}
+						</small>
+					</h1>
+				</div>
+				<!-- # 内容部分-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="row">
+							<div class="col-xs-6 col-sm-10">
+								<!-- #section:elements.tab -->
+								<div class="tabbable">
+									<ul id="myTab" class="nav nav-tabs">
+										<li class="active" style="border-bottom:1px solid #C5D0DC">
+											<a href="#home" data-toggle="tab" aria-expanded="true">
+												<i class="green ace-icon fa fa-home bigger-120"></i>
+												{:L('web_setting')}
+											</a>
+										</li>
+
+										<li class="">
+											<a href="#comment" data-toggle="tab" aria-expanded="false">{:L('comment_setting')}</a>
+										</li>
+										<li class="">
+											<a href="#email" data-toggle="tab" aria-expanded="false">{:L('email_setting')}</a>
+										</li>
+
+										<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+												Dropdown &nbsp;
+												<i class="ace-icon fa fa-caret-down bigger-110 width-auto"></i>
+											</a>
+
+											<ul class="dropdown-menu dropdown-info">
+												<li class="">
+													<a href="#dropdown1" data-toggle="tab" aria-expanded="false">@fat</a>
+												</li>
+
+												<li class="">
+													<a href="#dropdown2" data-toggle="tab" aria-expanded="false">@mdo</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+
+									<div class="tab-content">
+										<div class="tab-pane fade active in" id="home">
+											<form action="1212" class="form-horizontal" role="form">
+												
+											 	<div class="form-group">
+													<label for="web_switch" class="col-sm-2 control-label no-padding-left">关闭网站</label>
+														
+													<label>
+														<input name="web_switch" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" <if condition="$settings.web_switch eq 1">checked="checked"<else/></if>>
+														<span class="lbl"></span>
+													</label>
+											
+												</div>
+												<div class="form-group">
+													<label for="web_title" class="col-sm-2 control-label no-padding-left">网站标题</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_title" id="web_title" value="{$settings.web_title|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="web_description" class="col-sm-2 control-label no-padding-left">网站描述</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_description" id="web_description" value="{$settings.web_description|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="web_url" class="col-sm-2 control-label no-padding-left">网站地址</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_url" id="web_url" value="{$settings.web_url|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="web_state" class="col-sm-2 control-label no-padding-left">网站统计</label>
+														<textarea class="col-xs-10 col-sm-6" style="resize:none" rows="6" placeholder="web_state" id="web_state">{$settings.web_state|default=''}</textarea>
+												</div>
+												<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button type="button" onclick="add()" class="btn btn-info">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button type="reset" class="btn">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+											</form>
+										</div>
+
+										<div class="tab-pane fade" id="comment">
+											<p>
+												Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid.
+											</p>
+										</div>
+
+										<div class="tab-pane fade" id="email">
+											<form action="1212" class="form-horizontal" role="form">
+												
+											 	<div class="form-group">
+													<label for="email_switch" class="col-sm-2 control-label no-padding-left">开启服务器</label>
+														
+													<label>
+														<input name="email_switch" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" <if condition="$email.email_switch eq 1">checked="checked"<else/></if>>
+														<span class="lbl"></span>
+													</label>
+											
+												</div>
+												<div class="form-group">
+													<label for="email_server" class="col-sm-2 control-label no-padding-left">服务器</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_server" id="email_server" value="{$email.email_server|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="email_port" class="col-sm-2 control-label no-padding-left">端口</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_port" id="email_port" value="{$email.email_port|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="email_user_send" class="col-sm-2 control-label no-padding-left">发送者</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_user_send" id="email_user_send" value="{$email.email_user_send|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="email_user_pwd" class="col-sm-2 control-label no-padding-left">密码</label>
+														<input type="password" class="col-xs-10 col-sm-5" placeholder="email_user_pwd" id="email_user_pwd" value="{$email.email_user_pwd|default=''}">
+												</div>
+												<div class="form-group">
+													<label for="email_user_recive" class="col-sm-2 control-label no-padding-left">接收者</label>
+														<input type="text" class="col-xs-10 col-sm-6" placeholder="email_user_recive" id="web_state" value='{$email.email_user_recive|default=''}'>
+												</div>
+												<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button type="button" onclick="emailadd()" class="btn btn-info">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button type="reset" class="btn">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+											</form>
+										</div>
+
+										<div class="tab-pane fade" id="dropdown1">
+											<p>
+												Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade.
+											</p>
+										</div>
+
+										<div class="tab-pane fade" id="dropdown2">
+											<p>
+												Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin.
+											</p>
+										</div>
+									</div>
+								</div>
+
+								<!-- /section:elements.tab -->
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- # 内容部分-->
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src='__PUBLIC__/assets/js/toastr/toastr.min.js'></script>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/assets/js/toastr/toastr.min.css"/>
+	<script type="text/javascript" src='__PUBLIC__/assets/js/toastr/core.js'></script>
+	<script type="text/javascript">
+	function add(){
+			var web_switch = $("input[name='web_switch']:checked");
+			var web_title = $('#web_title').val();
+			var web_description = $('#web_description').val();
+			var web_url = $('#web_url').val();
+			var web_state = $('#web_state').val();
+			if(web_switch.length >0){$("input[name='web_switch']").val('1');}else{$("input[name='web_switch']").val('0');}
+
+				$.ajax({
+					url:'{:U('setting/add')}',
+					type:'post',
+					data:({web_switch:$("input[name='web_switch']").val(),web_title:web_title,web_description:web_description,web_url:web_url,web_state:web_state}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+
+			function emailadd(){
+			var email_switch = $("input[name='email_switch']:checked");
+			var email_server = $('#email_server').val();
+			var email_port = $('#email_port').val();
+			var email_user_send = $('#email_user_send').val();
+			var email_user_pwd  = $('#email_user_pwd').val();
+			var email_user_recive = $('#email_user_recive').val();
+			if(email_switch.length >0){$("input[name='email_switch']").val('1');}else{$("input[name='email_switch']").val('0');}
+
+				$.ajax({
+					url:'{:U('setting/emailadd')}',
+					type:'post',
+					data:({email_switch:$("input[name='email_switch']").val(),email_server:email_server,email_port:email_port,email_user_send:email_user_send,email_user_pwd:email_user_pwd,email_user_recive:email_user_recive}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+	</script>
+</block>

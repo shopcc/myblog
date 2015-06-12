@@ -1,0 +1,131 @@
+<extend name="Public:base"/>
+<block name='title'>添加分类</block>
+<block name='main-content'>
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div id="breadcrumbs" class="breadcrumbs">
+
+				<ul class="breadcrumb">
+					<li> <i class="ace-icon fa fa-home home-icon"></i>
+						<a href="#">{:L('home')}</a>
+					</li>
+					<li class="active highlight">{:L('category_add')}</li>
+				</ul>
+			</div>
+			<div class="page-content">
+			
+				<!-- # 内容部分-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="row">
+							<div class="col-xs-6 col-sm-10">
+								<!-- #section:elements.tab -->
+								<form method="post" action="{:U('category/add')}" class="form-horizontal" role="form">
+								<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="pid">{:L('cate_name')}</label>
+													<select name='pid'>
+														<option value='0'>顶级分类</option>
+														<foreach name='list' item='vo'>
+															<option value="{$vo.id}">{$vo.cate_name}</option>
+														</foreach>
+													</select>
+								</div>
+								<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="article_title">{:L('cate_name')}</label>
+														<input type="text" value="" name="cate_name" id="cate_name" placeholder="cate_name" class="col-xs-10 col-sm-5">
+								</div>
+								<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="article_title">{:L('cate_order_sort')}</label>
+														<input type="text" value="" name="order_sort" id="order_sort" placeholder="order_sort" class="col-xs-10 col-sm-5">
+								</div>
+								<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="article_title">{:L('is_nav')}</label>
+															
+													<label>
+														<input name="is_nav" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" value="1">
+														<span class="lbl"></span>
+													</label>
+								</div>
+								<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="status">{:L('cate_status')}</label>
+													<label>
+														<input name="status" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" value="1">
+														<span class="lbl"></span>
+													</label>
+								</div>
+								<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button class="btn btn-info" id="tijiao" onclick="add()" type="submit">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button class="btn" type="reset">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+								</form>
+								<!-- /section:elements.tab -->
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- # 内容部分-->
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src='__PUBLIC__/assets/js/toastr/toastr.min.js'></script>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/assets/js/toastr/toastr.min.css"/>
+	<script type="text/javascript" src='__PUBLIC__/assets/js/toastr/core.js'></script>
+	<script type="text/javascript">
+	function add(){
+			var web_switch = $("input[name='web_switch']:checked");
+			var web_title = $('#web_title').val();
+			var web_description = $('#web_description').val();
+			var web_url = $('#web_url').val();
+			var web_state = $('#web_state').val();
+			if(web_switch.length >0){$("input[name='web_switch']").val('1');}else{$("input[name='web_switch']").val('0');}
+
+				$.ajax({
+					url:'{:U('setting/add')}',
+					type:'post',
+					data:({web_switch:$("input[name='web_switch']").val(),web_title:web_title,web_description:web_description,web_url:web_url,web_state:web_state}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+
+			function emailadd(){
+			var email_switch = $("input[name='email_switch']:checked");
+			var email_server = $('#email_server').val();
+			var email_port = $('#email_port').val();
+			var email_user_send = $('#email_user_send').val();
+			var email_user_pwd  = $('#email_user_pwd').val();
+			var email_user_recive = $('#email_user_recive').val();
+			if(email_switch.length >0){$("input[name='email_switch']").val('1');}else{$("input[name='email_switch']").val('0');}
+
+				$.ajax({
+					url:'{:U('setting/emailadd')}',
+					type:'post',
+					data:({email_switch:$("input[name='email_switch']").val(),email_server:email_server,email_port:email_port,email_user_send:email_user_send,email_user_pwd:email_user_pwd,email_user_recive:email_user_recive}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+	</script>
+</block>

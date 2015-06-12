@@ -1,0 +1,21 @@
+<?php
+return array(
+	'home_start' =>'后台首页',
+	'home' => '首页',
+	'system_status' => '系统状态',
+	'overview' => '概念 & 状态',
+	'system_setting' => '系统设置',
+	'basic_setting' => '基础设置',
+	'email_setting' => '邮件设置',
+	'article_manage' => '文章管理',
+	'article_list' => '文章列表',
+	'sort_list'  =>'分类列表',
+	'comment_list' => '评论列表',
+	'page_manage' => '单页管理',
+	'one_page_list' =>'单页列表',
+	'add_one_page' =>'添加单页',
+	'gallery_manage' => '相册管理',
+	'gallery_list' => '相册列表',
+	'gallery_add' => '添加相册',
+	'logout' =>'退出系统',
+	);

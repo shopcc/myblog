@@ -1,0 +1,965 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="utf-8" />
+	<title>基础设置 - 后台管理系统</title>
+
+<meta name="description" content="overview &amp; stats" />
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+<!-- bootstrap & fontawesome -->
+<link rel="stylesheet" href="/Public/assets/css/bootstrap.css" />
+<link rel="stylesheet" href="/Public/assets/css/font-awesome.css" />
+
+<!-- page specific plugin styles -->
+
+<!-- text fonts -->
+<link rel="stylesheet" href="/Public/assets/css/ace-fonts.css" />
+
+<!-- ace styles -->
+<link rel="stylesheet" href="/Public/assets/css/ace.css"
+	class="ace-main-stylesheet" id="main-ace-style" />
+
+<script type="text/javascript">
+		window.jQuery
+				|| document
+						.write("<script src='/Public/assets/js/jquery.js'>"
+								+ "<"+"/script>");
+	
+	</script>
+<!--[if lte IE 9]>
+	<link rel="stylesheet" href="/Public/assets/css/ace-part2.css" class="ace-main-stylesheet" />
+	<![endif]-->
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" href="/Public/assets/css/ace-ie.css" />
+	<![endif]-->
+
+<!-- inline styles related to this page -->
+
+<!-- ace settings handler -->
+<script src="/Public/assets/js/ace-extra.js" type="text/javascript"></script>
+
+<!-- HTML5shiv and Respond.js for IE8 to support HTML5 elements and media queries -->
+
+<!--[if lte IE 8]>
+	<script src="/Public/assets/js/html5shiv.js"></script>
+	<script src="/Public/assets/js/respond.js"></script>
+	<![endif]-->
+</head>
+
+<body class="no-skin">
+	<!-- #section:basics/navbar.layout -->
+	<div class="navbar navbar-default" id="navbar">
+	<script type="text/javascript">try{ace.settings.check('navbar' , 'fixed')}catch(e){}</script>
+
+	<div id="navbar-container" class="navbar-container">
+		<!-- #section:basics/sidebar.mobile.toggle -->
+		<button data-target="#sidebar" id="menu-toggler" class="navbar-toggle menu-toggler pull-left" type="button">
+			<span class="sr-only">Toggle sidebar</span>
+
+			<span class="icon-bar"></span>
+
+			<span class="icon-bar"></span>
+
+			<span class="icon-bar"></span>
+		</button>
+
+		<!-- /section:basics/sidebar.mobile.toggle -->
+		<div class="navbar-header pull-left">
+			<!-- #section:basics/navbar.layout.brand -->
+			<a class="navbar-brand" href="#">
+				<small> <i class="fa fa-leaf"></i>
+					Ace Admin
+				</small>
+			</a>
+
+			<!-- /section:basics/navbar.layout.brand -->
+
+			<!-- #section:basics/navbar.toggle -->
+
+			<!-- /section:basics/navbar.toggle -->
+		</div>
+
+		<!-- #section:basics/navbar.dropdown -->
+		<div role="navigation" class="navbar-buttons navbar-header pull-right">
+			<ul class="nav ace-nav">
+				<li class="grey">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <i class="ace-icon fa fa-tasks"></i>
+						<span class="badge badge-grey">4</span>
+					</a>
+
+					<ul class="dropdown-menu-right dropdown-navbar dropdown-menu dropdown-caret dropdown-close">
+						<li class="dropdown-header">
+							<i class="ace-icon fa fa-check"></i>
+							4 Tasks to complete
+						</li>
+
+						<li class="dropdown-content ace-scroll" style="position: relative;">
+							<div class="scroll-track" style="display: none;">
+								<div class="scroll-bar"></div>
+							</div>
+							<div class="scroll-content" style="max-height: 200px;">
+								<ul class="dropdown-menu dropdown-navbar">
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">Software Update</span>
+												<span class="pull-right">65%</span>
+											</div>
+
+											<div class="progress progress-mini">
+												<div class="progress-bar" style="width:65%"></div>
+											</div>
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">Hardware Upgrade</span>
+												<span class="pull-right">35%</span>
+											</div>
+
+											<div class="progress progress-mini">
+												<div class="progress-bar progress-bar-danger" style="width:35%"></div>
+											</div>
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">Unit Testing</span>
+												<span class="pull-right">15%</span>
+											</div>
+
+											<div class="progress progress-mini">
+												<div class="progress-bar progress-bar-warning" style="width:15%"></div>
+											</div>
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">Bug Fixes</span>
+												<span class="pull-right">90%</span>
+											</div>
+
+											<div class="progress progress-mini progress-striped active">
+												<div class="progress-bar progress-bar-success" style="width:90%"></div>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</li>
+
+						<li class="dropdown-footer">
+							<a href="#">
+								See tasks with details
+								<i class="ace-icon fa fa-arrow-right"></i>
+							</a>
+						</li>
+					</ul>
+				</li>
+
+				<li class="purple">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<i class="ace-icon fa fa-bell icon-animated-bell"></i>
+						<span class="badge badge-important">8</span>
+					</a>
+
+					<ul class="dropdown-menu-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">
+						<li class="dropdown-header">
+							<i class="ace-icon fa fa-exclamation-triangle"></i>
+							8 Notifications
+						</li>
+
+						<li class="dropdown-content ace-scroll" style="position: relative;">
+							<div class="scroll-track" style="display: none;">
+								<div class="scroll-bar"></div>
+							</div>
+							<div class="scroll-content" style="max-height: 200px;">
+								<ul class="dropdown-menu dropdown-navbar navbar-pink">
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">
+													<i class="btn btn-xs no-hover btn-pink fa fa-comment"></i>
+													New Comments
+												</span>
+												<span class="pull-right badge badge-info">+12</span>
+											</div>
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<i class="btn btn-xs btn-primary fa fa-user"></i>
+											Bob just signed up as an editor ...
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">
+													<i class="btn btn-xs no-hover btn-success fa fa-shopping-cart"></i>
+													New Orders
+												</span>
+												<span class="pull-right badge badge-success">+8</span>
+											</div>
+										</a>
+									</li>
+
+									<li>
+										<a href="#">
+											<div class="clearfix">
+												<span class="pull-left">
+													<i class="btn btn-xs no-hover btn-info fa fa-twitter"></i>
+													Followers
+												</span>
+												<span class="pull-right badge badge-info">+11</span>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</li>
+
+						<li class="dropdown-footer">
+							<a href="#">
+								See all notifications
+								<i class="ace-icon fa fa-arrow-right"></i>
+							</a>
+						</li>
+					</ul>
+				</li>
+
+				<li class="green">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<i class="ace-icon fa fa-envelope icon-animated-vertical"></i>
+						<span class="badge badge-success">5</span>
+					</a>
+
+					<ul class="dropdown-menu-right dropdown-navbar dropdown-menu dropdown-caret dropdown-close">
+						<li class="dropdown-header">
+							<i class="ace-icon fa fa-envelope-o"></i>
+							5 Messages
+						</li>
+
+						<li class="dropdown-content ace-scroll" style="position: relative;">
+							<div class="scroll-track" style="display: none;">
+								<div class="scroll-bar"></div>
+							</div>
+							<div class="scroll-content" style="max-height: 200px;">
+								<ul class="dropdown-menu dropdown-navbar">
+									<li>
+										<a class="clearfix" href="#">
+											<img alt="Alex's Avatar" class="msg-photo" src="/Public/assets/avatars/avatar.png">
+											<span class="msg-body">
+												<span class="msg-title">
+													<span class="blue">Alex:</span>
+													Ciao sociis natoque penatibus et auctor ...
+												</span>
+
+												<span class="msg-time">
+													<i class="ace-icon fa fa-clock-o"></i>
+													<span>a moment ago</span>
+												</span>
+											</span>
+										</a>
+									</li>
+
+									<li>
+										<a class="clearfix" href="#">
+											<img alt="Susan's Avatar" class="msg-photo" src="/Public/assets/avatars/avatar3.png">
+											<span class="msg-body">
+												<span class="msg-title">
+													<span class="blue">Susan:</span>
+													Vestibulum id ligula porta felis euismod ...
+												</span>
+
+												<span class="msg-time">
+													<i class="ace-icon fa fa-clock-o"></i>
+													<span>20 minutes ago</span>
+												</span>
+											</span>
+										</a>
+									</li>
+
+									<li>
+										<a class="clearfix" href="#">
+											<img alt="Bob's Avatar" class="msg-photo" src="/Public/assets/avatars/avatar4.png">
+											<span class="msg-body">
+												<span class="msg-title">
+													<span class="blue">Bob:</span>
+													Nullam quis risus eget urna mollis ornare ...
+												</span>
+
+												<span class="msg-time">
+													<i class="ace-icon fa fa-clock-o"></i>
+													<span>3:15 pm</span>
+												</span>
+											</span>
+										</a>
+									</li>
+
+									<li>
+										<a class="clearfix" href="#">
+											<img alt="Kate's Avatar" class="msg-photo" src="/Public/assets/avatars/avatar2.png">
+											<span class="msg-body">
+												<span class="msg-title">
+													<span class="blue">Kate:</span>
+													Ciao sociis natoque eget urna mollis ornare ...
+												</span>
+
+												<span class="msg-time">
+													<i class="ace-icon fa fa-clock-o"></i>
+													<span>1:33 pm</span>
+												</span>
+											</span>
+										</a>
+									</li>
+
+									<li>
+										<a class="clearfix" href="#">
+											<img alt="Fred's Avatar" class="msg-photo" src="/Public/assets/avatars/avatar5.png">
+											<span class="msg-body">
+												<span class="msg-title">
+													<span class="blue">Fred:</span>
+													Vestibulum id penatibus et auctor  ...
+												</span>
+
+												<span class="msg-time">
+													<i class="ace-icon fa fa-clock-o"></i>
+													<span>10:09 am</span>
+												</span>
+											</span>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</li>
+
+						<li class="dropdown-footer">
+							<a href="inbox.html">
+								See all messages
+								<i class="ace-icon fa fa-arrow-right"></i>
+							</a>
+						</li>
+					</ul>
+				</li>
+
+				<!-- #section:basics/navbar.user_menu -->
+				<li class="light-blue">
+					<a class="dropdown-toggle" href="#" data-toggle="dropdown">
+						<img alt="Jason's Photo" src="/Public/assets/avatars/user.jpg" class="nav-user-photo">
+						<span class="user-info">
+							<small>Welcome,</small>
+							Jason
+						</span>
+
+						<i class="ace-icon fa fa-caret-down"></i>
+					</a>
+
+					<ul class="user-menu dropdown-menu-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
+						<li>
+							<a href="#">
+								<i class="ace-icon fa fa-cog"></i>
+								Settings
+							</a>
+						</li>
+
+						<li>
+							<a href="profile.html">
+								<i class="ace-icon fa fa-user"></i>
+								Profile
+							</a>
+						</li>
+
+						<li class="divider"></li>
+
+						<li>
+							<a href="#">
+								<i class="ace-icon fa fa-power-off"></i>
+								Logout
+							</a>
+						</li>
+					</ul>
+				</li>
+
+				<!-- /section:basics/navbar.user_menu -->
+			</ul>
+		</div>
+
+		<!-- /section:basics/navbar.dropdown -->
+	</div>
+	<!-- /.navbar-container -->
+</div>
+	<!-- /section:basics/navbar.layout -->
+	<div class="main-container container" id="main-container ">
+		<script type="text/javascript">
+			try {
+				ace.settings.check('main-container', 'fixed')
+			} catch (e) {
+			}
+		</script>
+
+		<!-- #section:basics/sidebar -->
+		<div class="sidebar                  responsive" id="sidebar" data-sidebar="true" data-sidebar-scroll="true" data-sidebar-hover="true">
+			<script type="text/javascript">try{ace.settings.check('sidebar' , 'fixed')}catch(e){}</script>
+
+			<div id="sidebar-shortcuts" class="sidebar-shortcuts">
+				<div id="sidebar-shortcuts-large" class="sidebar-shortcuts-large">
+					<button class="btn btn-success">
+						<i class="ace-icon fa fa-signal"></i>
+					</button>
+
+					<button class="btn btn-info">
+						<i class="ace-icon fa fa-pencil"></i>
+					</button>
+
+					<!-- #section:basics/sidebar.layout.shortcuts -->
+					<button class="btn btn-warning">
+						<i class="ace-icon fa fa-users"></i>
+					</button>
+
+					<button class="btn btn-danger">
+						<i class="ace-icon fa fa-cogs"></i>
+					</button>
+
+					<!-- /section:basics/sidebar.layout.shortcuts -->
+				</div>
+
+				<div id="sidebar-shortcuts-mini" class="sidebar-shortcuts-mini">
+					<span class="btn btn-success"></span>
+
+					<span class="btn btn-info"></span>
+
+					<span class="btn btn-warning"></span>
+
+					<span class="btn btn-danger"></span>
+				</div>
+			</div>
+			<!-- /.sidebar-shortcuts -->
+
+			<ul class="nav nav-list" style="top: 0px;">
+				<li <?php if(CONTROLLER_NAME== 'Main'): ?>class="active"<?php else: endif; ?>>
+					<a href='<?php echo U('main/index');?>'>
+						<i class="menu-icon fa fa-tachometer"></i>
+						<span class="menu-text"><?php echo L('home_start');?></span>
+					</a> <b class="arrow"></b>
+				</li>
+
+				<li <?php if(CONTROLLER_NAME== 'Setting '): ?>class="active"<?php else: endif; ?>>
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-desktop"></i>
+						<span class="menu-text"><?php echo L('system_setting');?></span> <b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="<?php echo U('setting/index');?>">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('basic_setting');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<!-- <li class="">
+							<a href="elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('email_setting');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li> -->
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-list"></i>
+						<span class="menu-text"><?php echo L('article_manage');?></span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="<?php echo U('article/list');?>">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('article_list');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="<?php echo U('category/list');?>">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('sort_list');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+						<li class="">
+							<a href="<?php echo U('comment/list');?>">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('comment_list');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-pencil-square-o"></i>
+						<span class="menu-text"><?php echo L('page_manage');?></span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="form-elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('add_one_page');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="form-elements-2.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('one_page_list');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-picture-o"></i>
+						<span class="menu-text"><?php echo L('gallery_manage');?></span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="form-elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('gallery_list');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="form-elements-2.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								<?php echo L('gallery_add');?>
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						
+					</ul>
+				</li>
+			
+
+				<li class="">
+					<a href="gallery.html">
+						<i class="menu-icon fa fa-cogs"></i>
+						<span class="menu-text"><?php echo L('logout');?></span>
+					</a>
+
+					<b class="arrow"></b>
+				</li>
+
+			</ul>
+			<!-- /.nav-list -->
+
+			<!-- #section:basics/sidebar.layout.minimize -->
+			<div id="sidebar-collapse" class="sidebar-toggle sidebar-collapse">
+				<i data-icon2="ace-icon fa fa-angle-double-right" data-icon1="ace-icon fa fa-angle-double-left" class="ace-icon fa fa-angle-double-left"></i>
+			</div>
+
+			<!-- /section:basics/sidebar.layout.minimize -->
+			<script type="text/javascript">try{ace.settings.check('sidebar' , 'collapsed')}catch(e){}</script>
+		</div>
+		<!-- /section:basics/sidebar -->
+		
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div id="breadcrumbs" class="breadcrumbs">
+
+				<ul class="breadcrumb">
+					<li> <i class="ace-icon fa fa-home home-icon"></i>
+						<a href="#"><?php echo L('home');?></a>
+					</li>
+					<li class="active highlight"><?php echo L('basic_setting');?></li>
+				</ul>
+			</div>
+			<div class="page-content">
+				<div class="page-header">
+					<h1>
+						<?php echo L('basic_setting');?>
+						<small> <i class="ace-icon fa fa-angle-double-right"></i>
+							<?php echo L('basic_more_setting');?>
+						</small>
+					</h1>
+				</div>
+				<!-- # 内容部分-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="row">
+							<div class="col-xs-6 col-sm-10">
+								<!-- #section:elements.tab -->
+								<div class="tabbable">
+									<ul id="myTab" class="nav nav-tabs">
+										<li class="active" style="border-bottom:1px solid #C5D0DC">
+											<a href="#home" data-toggle="tab" aria-expanded="true">
+												<i class="green ace-icon fa fa-home bigger-120"></i>
+												<?php echo L('web_setting');?>
+											</a>
+										</li>
+
+										<li class="">
+											<a href="#comment" data-toggle="tab" aria-expanded="false"><?php echo L('comment_setting');?></a>
+										</li>
+										<li class="">
+											<a href="#email" data-toggle="tab" aria-expanded="false"><?php echo L('email_setting');?></a>
+										</li>
+
+										<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+												Dropdown &nbsp;
+												<i class="ace-icon fa fa-caret-down bigger-110 width-auto"></i>
+											</a>
+
+											<ul class="dropdown-menu dropdown-info">
+												<li class="">
+													<a href="#dropdown1" data-toggle="tab" aria-expanded="false">@fat</a>
+												</li>
+
+												<li class="">
+													<a href="#dropdown2" data-toggle="tab" aria-expanded="false">@mdo</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+
+									<div class="tab-content">
+										<div class="tab-pane fade active in" id="home">
+											<form action="1212" class="form-horizontal" role="form">
+												
+											 	<div class="form-group">
+													<label for="web_switch" class="col-sm-2 control-label no-padding-left">关闭网站</label>
+														
+													<label>
+														<input name="web_switch" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" <?php if($settings["web_switch"] == 1): ?>checked="checked"<?php else: endif; ?>>
+														<span class="lbl"></span>
+													</label>
+											
+												</div>
+												<div class="form-group">
+													<label for="web_title" class="col-sm-2 control-label no-padding-left">网站标题</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_title" id="web_title" value="<?php echo ((isset($settings["web_title"]) && ($settings["web_title"] !== ""))?($settings["web_title"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="web_description" class="col-sm-2 control-label no-padding-left">网站描述</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_description" id="web_description" value="<?php echo ((isset($settings["web_description"]) && ($settings["web_description"] !== ""))?($settings["web_description"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="web_url" class="col-sm-2 control-label no-padding-left">网站地址</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="web_url" id="web_url" value="<?php echo ((isset($settings["web_url"]) && ($settings["web_url"] !== ""))?($settings["web_url"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="web_state" class="col-sm-2 control-label no-padding-left">网站统计</label>
+														<textarea class="col-xs-10 col-sm-6" style="resize:none" rows="6" placeholder="web_state" id="web_state"><?php echo ((isset($settings["web_state"]) && ($settings["web_state"] !== ""))?($settings["web_state"]):''); ?></textarea>
+												</div>
+												<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button type="button" onclick="add()" class="btn btn-info">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button type="reset" class="btn">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+											</form>
+										</div>
+
+										<div class="tab-pane fade" id="comment">
+											<p>
+												Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid.
+											</p>
+										</div>
+
+										<div class="tab-pane fade" id="email">
+											<form action="1212" class="form-horizontal" role="form">
+												
+											 	<div class="form-group">
+													<label for="email_switch" class="col-sm-2 control-label no-padding-left">开启服务器</label>
+														
+													<label>
+														<input name="email_switch" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" <?php if($email["email_switch"] == 1): ?>checked="checked"<?php else: endif; ?>>
+														<span class="lbl"></span>
+													</label>
+											
+												</div>
+												<div class="form-group">
+													<label for="email_server" class="col-sm-2 control-label no-padding-left">服务器</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_server" id="email_server" value="<?php echo ((isset($email["email_server"]) && ($email["email_server"] !== ""))?($email["email_server"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="email_port" class="col-sm-2 control-label no-padding-left">端口</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_port" id="email_port" value="<?php echo ((isset($email["email_port"]) && ($email["email_port"] !== ""))?($email["email_port"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="email_user_send" class="col-sm-2 control-label no-padding-left">发送者</label>
+														<input type="text" class="col-xs-10 col-sm-5" placeholder="email_user_send" id="email_user_send" value="<?php echo ((isset($email["email_user_send"]) && ($email["email_user_send"] !== ""))?($email["email_user_send"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="email_user_pwd" class="col-sm-2 control-label no-padding-left">密码</label>
+														<input type="password" class="col-xs-10 col-sm-5" placeholder="email_user_pwd" id="email_user_pwd" value="<?php echo ((isset($email["email_user_pwd"]) && ($email["email_user_pwd"] !== ""))?($email["email_user_pwd"]):''); ?>">
+												</div>
+												<div class="form-group">
+													<label for="email_user_recive" class="col-sm-2 control-label no-padding-left">接收者</label>
+														<input type="text" class="col-xs-10 col-sm-6" placeholder="email_user_recive" id="web_state" value='<?php echo ((isset($email["email_user_recive"]) && ($email["email_user_recive"] !== ""))?($email["email_user_recive"]):''); ?>'>
+												</div>
+												<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button type="button" onclick="emailadd()" class="btn btn-info">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button type="reset" class="btn">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+											</form>
+										</div>
+
+										<div class="tab-pane fade" id="dropdown1">
+											<p>
+												Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade.
+											</p>
+										</div>
+
+										<div class="tab-pane fade" id="dropdown2">
+											<p>
+												Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin.
+											</p>
+										</div>
+									</div>
+								</div>
+
+								<!-- /section:elements.tab -->
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- # 内容部分-->
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src='/Public/assets/js/toastr/toastr.min.js'></script>
+	<link rel="stylesheet" type="text/css" href="/Public/assets/js/toastr/toastr.min.css"/>
+	<script type="text/javascript" src='/Public/assets/js/toastr/core.js'></script>
+	<script type="text/javascript">
+	function add(){
+			var web_switch = $("input[name='web_switch']:checked");
+			var web_title = $('#web_title').val();
+			var web_description = $('#web_description').val();
+			var web_url = $('#web_url').val();
+			var web_state = $('#web_state').val();
+			if(web_switch.length >0){$("input[name='web_switch']").val('1');}else{$("input[name='web_switch']").val('0');}
+
+				$.ajax({
+					url:'<?php echo U('setting/add');?>',
+					type:'post',
+					data:({web_switch:$("input[name='web_switch']").val(),web_title:web_title,web_description:web_description,web_url:web_url,web_state:web_state}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+
+			function emailadd(){
+			var email_switch = $("input[name='email_switch']:checked");
+			var email_server = $('#email_server').val();
+			var email_port = $('#email_port').val();
+			var email_user_send = $('#email_user_send').val();
+			var email_user_pwd  = $('#email_user_pwd').val();
+			var email_user_recive = $('#email_user_recive').val();
+			if(email_switch.length >0){$("input[name='email_switch']").val('1');}else{$("input[name='email_switch']").val('0');}
+
+				$.ajax({
+					url:'<?php echo U('setting/emailadd');?>',
+					type:'post',
+					data:({email_switch:$("input[name='email_switch']").val(),email_server:email_server,email_port:email_port,email_user_send:email_user_send,email_user_pwd:email_user_pwd,email_user_recive:email_user_recive}),
+					dataType:'json',
+					success:function(data){
+						if(data.status){
+							op_success(data.info,'温馨提示');
+						}else{
+							op_error(data.info,'温馨提示');
+						}
+					}
+				});
+			}
+	</script>
+
+		<!-- /.main-content -->
+		<div class="footer">
+			<div class="footer-inner">
+				<!-- #section:basics/footer -->
+				<div class="footer-content">
+					<span class="bigger-120">
+						<span class="blue bolder">Ace</span>
+						Application &copy; 2013-2014
+					</span>
+					&nbsp; &nbsp;
+					<span class="action-buttons">
+						<a href="#">
+							<i class="ace-icon fa fa-twitter-square light-blue bigger-150"></i>
+						</a>
+
+						<a href="#">
+							<i class="ace-icon fa fa-facebook-square text-primary bigger-150"></i>
+						</a>
+
+						<a href="#">
+							<i class="ace-icon fa fa-rss-square orange bigger-150"></i>
+						</a>
+					</span>
+				</div>
+
+				<!-- /section:basics/footer -->
+			</div>
+		</div>
+		<a href="#" id="btn-scroll-up"
+			class="btn-scroll-up btn btn-sm btn-inverse"> <i
+			class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
+		</a>
+	</div>
+	<!-- /.main-container -->
+
+	<!-- basic scripts -->
+
+	<!--[if !IE]>
+	-->
+	
+
+	<!-- <![endif]-->
+
+	<!--[if IE]>
+<script type="text/javascript">
+ window.jQuery || document.write("<script src='/Public/assets/js/jquery1x.js'>"+"<"+"/script>");</script>
+<![endif]-->
+	<script type="text/javascript">
+		if ('ontouchstart' in document.documentElement)
+			document
+					.write("<script src='/Public/assets/js/jquery.mobile.custom.js'>"
+							+ "<"+"/script>");
+	</script>
+	<script src="/Public/assets/js/bootstrap.js" type="text/javascript"></script>
+
+	<!-- page specific plugin scripts -->
+
+	<!--[if lte IE 8]>
+<script src="/Public/assets/js/excanvas.js"></script>
+<![endif]-->
+	<script src="/Public/assets/js/jquery-ui.custom.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/jquery.ui.touch-punch.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/jquery.easypiechart.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/jquery.sparkline.js"
+		type="text/javascript"></script>
+
+
+	<!-- ace scripts -->
+	<script src="/Public/assets/js/ace/elements.scroller.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.colorpicker.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.fileinput.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.typeahead.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.wysiwyg.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.spinner.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.treeview.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.wizard.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/elements.aside.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.js" type="text/javascript"></script>
+
+	<script src="/Public/assets/js/ace/ace.touch-drag.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.sidebar.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.sidebar-scroll-1.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.submenu-hover.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.widget-box.js"
+		type="text/javascript"></script>
+	
+	<script src="/Public/assets/js/ace/ace.widget-on-reload.js"
+		type="text/javascript"></script>
+	<script src="/Public/assets/js/ace/ace.searchbox-autocomplete.js"
+		type="text/javascript"></script>
+
+	<!-- inline scripts related to this page -->
+	
+
+	<!-- the following scripts are used in demo only for onpage help and you don't need them -->
+	
+</body>
+</html>

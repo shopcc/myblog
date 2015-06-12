@@ -1,0 +1,200 @@
+<div class="sidebar                  responsive" id="sidebar" data-sidebar="true" data-sidebar-scroll="true" data-sidebar-hover="true">
+			<script type="text/javascript">try{ace.settings.check('sidebar' , 'fixed')}catch(e){}</script>
+
+			<div id="sidebar-shortcuts" class="sidebar-shortcuts">
+				<div id="sidebar-shortcuts-large" class="sidebar-shortcuts-large">
+					<button class="btn btn-success">
+						<i class="ace-icon fa fa-signal"></i>
+					</button>
+
+					<button class="btn btn-info">
+						<i class="ace-icon fa fa-pencil"></i>
+					</button>
+
+					<!-- #section:basics/sidebar.layout.shortcuts -->
+					<button class="btn btn-warning">
+						<i class="ace-icon fa fa-users"></i>
+					</button>
+
+					<button class="btn btn-danger">
+						<i class="ace-icon fa fa-cogs"></i>
+					</button>
+
+					<!-- /section:basics/sidebar.layout.shortcuts -->
+				</div>
+
+				<div id="sidebar-shortcuts-mini" class="sidebar-shortcuts-mini">
+					<span class="btn btn-success"></span>
+
+					<span class="btn btn-info"></span>
+
+					<span class="btn btn-warning"></span>
+
+					<span class="btn btn-danger"></span>
+				</div>
+			</div>
+			<!-- /.sidebar-shortcuts -->
+
+			<ul class="nav nav-list" style="top: 0px;">
+				<li <if condition="$Think.const.CONTROLLER_NAME eq 'Main'">class="active"<else/></if>>
+					<a href='{:U('main/index')}'>
+						<i class="menu-icon fa fa-tachometer"></i>
+						<span class="menu-text">{:L('home_start')}</span>
+					</a> <b class="arrow"></b>
+				</li>
+
+				<li <if condition="$Think.const.CONTROLLER_NAME eq 'Setting '">class="active"<else/></if>>
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-desktop"></i>
+						<span class="menu-text">{:L('system_setting')}</span> <b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="{:U('setting/index')}">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('basic_setting')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<!-- <li class="">
+							<a href="elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('email_setting')}
+							</a>
+
+							<b class="arrow"></b>
+						</li> -->
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-list"></i>
+						<span class="menu-text">{:L('article_manage')}</span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="{:U('article/list')}">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('article_list')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="{:U('category/list')}">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('sort_list')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+						<li class="">
+							<a href="{:U('comment/list')}">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('comment_list')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-pencil-square-o"></i>
+						<span class="menu-text">{:L('page_manage')}</span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="form-elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('add_one_page')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="form-elements-2.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('one_page_list')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						
+					</ul>
+				</li>
+
+				<li class="">
+					<a class="dropdown-toggle" href="#">
+						<i class="menu-icon fa fa-picture-o"></i>
+						<span class="menu-text">{:L('gallery_manage')}</span>
+
+						<b class="arrow fa fa-angle-down"></b>
+					</a>
+
+					<b class="arrow"></b>
+
+					<ul class="submenu">
+						<li class="">
+							<a href="form-elements.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('gallery_list')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						<li class="">
+							<a href="form-elements-2.html">
+								<i class="menu-icon fa fa-caret-right"></i>
+								{:L('gallery_add')}
+							</a>
+
+							<b class="arrow"></b>
+						</li>
+
+						
+					</ul>
+				</li>
+			
+
+				<li class="">
+					<a href="gallery.html">
+						<i class="menu-icon fa fa-cogs"></i>
+						<span class="menu-text">{:L('logout')}</span>
+					</a>
+
+					<b class="arrow"></b>
+				</li>
+
+			</ul>
+			<!-- /.nav-list -->
+
+			<!-- #section:basics/sidebar.layout.minimize -->
+			<div id="sidebar-collapse" class="sidebar-toggle sidebar-collapse">
+				<i data-icon2="ace-icon fa fa-angle-double-right" data-icon1="ace-icon fa fa-angle-double-left" class="ace-icon fa fa-angle-double-left"></i>
+			</div>
+
+			<!-- /section:basics/sidebar.layout.minimize -->
+			<script type="text/javascript">try{ace.settings.check('sidebar' , 'collapsed')}catch(e){}</script>
+		</div>

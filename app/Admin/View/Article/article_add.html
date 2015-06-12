@@ -1,0 +1,295 @@
+<extend name="Public:base"/>
+<block name="title">添加文章</block>
+<block name="main-content">
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div id="breadcrumbs" class="breadcrumbs">
+				<ul class="breadcrumb">
+					<li> <i class="ace-icon fa fa-home home-icon"></i>
+						<a href="#">{:L('home')}</a>
+					</li>
+
+					<li>
+						<a href="#">{:L('article_manage')}</a>
+					</li>
+					<li class="active">{:L('article_add')}</li>
+				</ul>
+				
+			</div>
+			
+			<div class="page-content">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="row">
+							<div class="col-xs-12">
+								<div class="row">
+									<div class="col-xs-12">
+									<a href='{:U('article/list')}'><button class="btn btn-white btn-primary btn-sm-2 col-xl-2" type="button">
+									<i class="ace-icon fa fa-pencil align-top bigger-125"></i>
+									{:L('article_list')}
+									</button></a>
+									</div>
+								</div>
+								<div class="hr hr-2"></div>
+								<div class="row">
+					<div class="col-xs-12">
+						<div class="row">
+							<div class="col-xs-6 col-sm-10">
+								<!-- #section:elements.tab -->
+								<div class="tabbable">
+									<ul class="nav nav-tabs" id="myTab">
+										<li style="border-bottom:1px solid #C5D0DC" class="active">
+											<a aria-expanded="true" data-toggle="tab" href="#base">
+												<i class="green ace-icon fa fa-home bigger-120"></i>
+												基本信息											</a>
+										</li>
+
+										<li class="">
+											<a aria-expanded="false" data-toggle="tab" href="#seo">SEO设置</a>
+										</li>
+										
+									</ul>
+									<form role="form" method="post" class="form-horizontal" action="__SELF__">
+									<div class="tab-content">
+										<div id="base" class="tab-pane fade active in">
+											
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="article_title">文章标题</label>
+														<input type="text" value="" name="article_title" id="article_title" placeholder="article_title" class="col-xs-10 col-sm-5">
+												</div>
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="author">文章作者</label>
+														<input type="text" value="" name="author" id="author" placeholder="author" class="col-xs-10 col-sm-5">
+												</div>
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="sort_id">文章分类</label>
+														<select class="select" name="sort_id">
+															<option>请选择</option>
+															<foreach name='list' item='vo'>
+																<option value='{$vo.id}'>{$vo.cate_name}</option>
+															</foreach>
+														</select>
+												</div>
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="thumb_img">文章微图</label>
+													<div class="col-xl-9">
+														<div class="input-group input-group-sm">
+  					<span class="input-group-addon"><i class=" ace-icon fa fa-upload"></i></span>
+  					<input type="text" id="thumb_img" name="thumb_img" placeholder="thumb_img" value="">
+  					<input type="button" class="btn btn-default btn-sm" id="thumb_imgs" value="选择图片" />
+  					<a href="" id="imgs_url2" target="_blank"><img src="__PUBLIC__/data/admin/images/demo.gif" id="imgs_url" style="width:30px;height:30px;"/></a>
+  					
+													</div>
+
+													</div>
+												</div>
+
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="author">添加日期</label>
+													<div class="input-group input-group-sm">
+													<span class="input-group-addon">
+														<i class="ace-icon fa fa-calendar"></i>
+													</span>
+													<input type="text" id="add_time" name="add_time" value="" data-date-format="yyyy-mm-d"/>
+													
+												</div>
+												</div>
+												<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="content">文章内容</label>
+													<div class="col-xl-9">
+														<textarea id="content" name="content" placeholder="content" style="width:600px;height:260px;resize:none" class="col-xs-10 col-sm-6"></textarea>
+													</div>
+												</div>
+											
+											
+										</div>
+
+										<div id="seo" class="tab-pane fade">
+											<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="article_title">文章关键字</label>
+														<input type="text" value="" name="keywords" id="keywords" placeholder="keywords" class="col-xs-10 col-sm-5">
+											</div>
+											<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="description">文章描述</label>
+														<input type="text" value="" name="description" id="description" placeholder="description" class="col-xs-10 col-sm-5">
+											</div>
+											<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="click">点击量</label>
+														<input type="text" value="" name="click" id="description" placeholder="click" class="col-xs-10 col-sm-5">
+											</div>
+											<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="a_hot">是否推荐</label>
+														<div class="radio">
+													<label>
+														<input type="radio" value='1' name="a_hot" checked="checked" class="ace" name="form-field-radio">
+														<span class="lbl"> 推荐</span>
+													</label>
+											
+													<label>
+														<input type="radio" value='0' name="a_hot" class="ace" name="form-field-radio">
+														<span class="lbl"> 不推荐</span>
+													</label>
+												</div>
+											</div>
+											<div class="form-group">
+													<label class="col-sm-2 control-label no-padding-left" for="small_content">文章简介</label>
+													<div class="col-xl-9">
+													<textarea id="small_content" name="small_content" placeholder="small_content" style="width:600px;height:260px;resize:none" class="col-xs-10 col-sm-6"></textarea>
+													<center>您当前还可以输入 <span class="word_count1">0</span> 个文字。(字数统计包含HTML代码。)</center>
+													</div>
+
+											</div>
+
+
+										</div>
+
+										<div id="email" class="tab-pane fade">
+											
+												
+											 	
+											
+										</div>
+
+										<div id="dropdown1" class="tab-pane fade">
+											<p>
+												Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade.
+											</p>
+										</div>
+
+										<div id="dropdown2" class="tab-pane fade">
+											<p>
+												Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin.
+											</p>
+										</div>
+											<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button class="btn btn-info" id="tijiao" onclick="add()" type="submit">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												Submit
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button class="btn" type="reset">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												Reset
+											</button>
+										</div>
+									</div>
+									</div>
+								</div>
+
+								</form>
+								<!-- /section:elements.tab -->
+							</div>
+						</div>
+					</div>
+				</div>
+								
+							</div>
+							<!-- /.span -->
+						</div>
+					</div>
+				</dir>
+			</div>
+		</div>
+	</div>
+	<script src="__PUBLIC__/data/kindeditor/kindeditor-min.js"></script>
+	<script src="__PUBLIC__/data/kindeditor/lang/zh_CN.js"></script>
+	<link rel="stylesheet" href="__PUBLIC__/data/kindeditor/themes/default/default.css" />
+	<script type="text/javascript" src="__PUBLIC__/assets/js/date-time/bootstrap-datepicker.js">
+	</script>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/assets/css/datepicker.css">
+	
+	<script type="text/javascript">
+	/* 编辑器*/
+		var editor;
+		var editor1;
+			KindEditor.ready(function(K) {
+				editor = K.create('textarea[name="content"]', {
+					resizeType : 1,
+					minWidth:'200px',
+					allowPreviewEmoticons : true,
+					allowFileManager : true,
+					allowImageUpload : true,
+					allowImageManager : true,
+						items : [
+						'source','fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic', 'underline',
+						'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+						'insertunorderedlist', '|', 'emoticons', 'image', 'multiimage', 'flash', 'media', 'insertfile', 'link', 'unlink'],
+						width : '600px',
+						height : '120px',
+						afterBlur:function(){this.sync();}
+				});
+				editor1 = K.create('textarea[name="small_content"]',{
+					resizeType : 1,
+					minWidth:'200px',
+					allowPreviewEmoticons : true,
+					allowFileManager : true,
+					allowImageUpload : true,
+					allowImageManager : true,
+						items : [
+						'source','fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic', 'underline',
+						'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+						'insertunorderedlist', '|', 'emoticons','link', 'unlink'],
+						width : '600px',
+						height : '260px',
+						afterBlur:function(){this.sync();},
+						afterChange : function() {
+							var count = this.count();
+							var limit = 200;
+							if((limit-count) <='0'){
+							$("#tijiao").attr('disabled',true);
+						}
+						if((limit-count) >='0'){
+							$("#tijiao").attr('disabled',false);
+						}
+						K('.word_count1').html(limit-count);
+						
+					}
+				});
+				/* 文章微图处理*/
+				K('#thumb_imgs').click(function() {
+					editor.loadPlugin('image', function() {
+						editor.plugin.imageDialog({
+							imageUrl : K('#thumb_img').val(),
+							clickFn : function(url, title, width, height, border, align) {
+								K('#thumb_img').val(url);
+								K('#imgs_url').attr('src',url);
+								K('#imgs_url2').attr('href',url);
+								editor.hideDialog();
+							}
+						});
+					});
+				});
+				
+			});
+/* 日期组件处理 */
+$("#add_time").datepicker({
+					showOtherMonths: true,
+					selectOtherMonths: false,
+
+					//isRTL:true,
+			
+					
+					/*
+					changeMonth: true,
+					changeYear: true,
+					
+					showButtonPanel: true,
+					beforeShow: function() {
+						//change button colors
+						var datepicker = $(this).datepicker( "widget" );
+						setTimeout(function(){
+							var buttons = datepicker.find('.ui-datepicker-buttonpane')
+							.find('button');
+							buttons.eq(0).addClass('btn btn-xs');
+							buttons.eq(1).addClass('btn btn-xs btn-success');
+							buttons.wrapInner('<span class="bigger-110" />');
+						}, 0);
+					}
+			*/
+				});
+	
+
+	</script>
+</block>

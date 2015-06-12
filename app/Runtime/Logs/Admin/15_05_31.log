@@ -1,0 +1,3806 @@
+[ 2015-05-31T00:00:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:08:42+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:10:37+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:10:47+08:00 ] 127.0.0.1 /admin/article/CATEGORY/LIST
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 非法操作:CATEGORY
+
+[ 2015-05-31T00:11:03+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T00:11:05+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T00:12:17+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:17:23+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:17:57+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:17:58+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T00:18:22+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:18:37+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:20:07+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:21:05+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T00:21:09+08:00 ] 127.0.0.1 /admin/setting/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T00:21:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T00:21:17+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T00:37:56+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T00:37:59+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T00:51:05+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T00:55:31+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:13:07+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-05-31T09:13:12+08:00 ] 127.0.0.1 /admin/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2015-05-31T09:13:25+08:00 ] 127.0.0.1 /admin/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T09:13:29+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T09:13:31+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:20:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:23:59+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:24:57+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:25:49+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:26:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:27:00+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:29:17+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:30:43+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:32:43+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:32:46+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T09:35:07+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:35:21+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:36:20+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T09:37:25+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:37:45+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T09:46:44+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:57:06+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:58:49+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T09:58:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:02:04+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:02:22+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:05:02+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:09:35+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:10:29+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:12:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:14:04+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:14:24+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:15:26+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:19:04+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:19:52+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:21:21+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:21:40+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:22:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:23:26+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:24:06+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:27:19+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:32:08+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:32:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:33:29+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:34:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:35:35+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:36:00+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T10:39:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:39:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:41:18+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:46:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:48:18+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:48:45+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:50:38+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:51:18+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:55:56+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:57:22+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T10:58:31+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T10:58:32+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:00:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:01:28+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:03:57+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:06:51+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:07:02+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:07:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:07:24+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:07:53+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:12:41+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:13:07+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:13:09+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:14:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:14:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:14:35+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:14:56+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:15:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:15:24+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:17:47+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:18:51+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:19:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:28:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:29:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T11:31:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:32:32+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:32:35+08:00 ] 127.0.0.1 /admin/article/add.html?sort_id=1&thumb_img=%2FPublic%2Fdata%2Fkindeditor%2Fattached%2Fimage%2F20150531%2F20150531094714_50330.gif&add_time=2015-05-21&content=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:33:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:33:14+08:00 ] 127.0.0.1 /admin/category/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:33:15+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:33:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:33:23+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:33:26+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:35:01+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:35:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:37:32+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:37:36+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:37:49+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:39:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:40:26+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:41:35+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'pid' doesn't have a default value
+
+[ 2015-05-31T11:42:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'add_time' at row 1
+
+[ 2015-05-31T11:42:48+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:45:15+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T11:45:19+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '1430755200' for column 'add_time' at row 1
+
+[ 2015-05-31T11:46:38+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'add_time' at row 1
+
+[ 2015-05-31T11:46:41+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'add_time' at row 1
+
+[ 2015-05-31T11:47:10+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T11:52:57+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T13:56:10+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T13:57:58+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T13:59:09+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T13:59:21+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T13:59:58+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:03:33+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:07:13+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:07:46+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:08:31+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:09:30+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:10:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:11:38+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:12:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:13:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:13:31+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:13:44+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:14:07+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:16:46+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:18:46+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:19:13+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:19:29+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T14:20:13+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:20:41+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:20:58+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:21:01+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:23:40+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:24:08+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:30:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:30:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:34:23+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T14:36:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T14:36:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:38:25+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:39:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:39:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:41:07+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:42:17+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:42:48+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:43:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:45:53+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:46:01+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:46:04+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:47:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T14:47:48+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:47:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T14:48:05+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:49:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T14:50:09+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:50:27+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T14:50:46+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:01:49+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:01:52+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T15:02:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:02:06+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:02:08+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:05:14+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:05:15+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:05:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:05:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:05:20+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:07:55+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:07:57+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:08:15+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:getErrot方法不存在！
+
+[ 2015-05-31T15:08:26+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:11:21+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:11:29+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:23:01+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:23:38+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:23:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:23:50+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:23:57+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:24:00+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:24:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:24:24+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:24:29+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:24:32+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T15:25:03+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:25:44+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:27:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:27:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+
+[ 2015-05-31T15:27:22+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:27:54+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T15:27:55+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:29:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:29:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:29:37+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:29:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T15:30:17+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:30:19+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:30:42+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:30:44+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:55:42+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:55:59+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T15:57:03+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T15:57:06+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T15:58:55+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:00:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:04:54+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T16:06:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:08:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:47:42+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T16:47:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:47:53+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:47:54+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:48:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:48:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:50:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:50:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T16:51:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:51:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:55:02+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:57:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T16:58:51+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T16:59:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T16:59:42+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T17:00:25+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:00:31+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:03:07+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:03:08+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `my_article` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T17:03:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:03:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `my_article` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:04:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:04:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+
+[ 2015-05-31T17:05:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:05:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+
+[ 2015-05-31T17:06:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:06:35+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 59 行.
+
+[ 2015-05-31T17:08:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:08:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:10:48+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-05-31T17:10:49+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:11:11+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:32+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:34+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0070s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:43+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:43+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:47+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:47+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:11:47+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:54+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:11:54+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:11:59+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:11:59+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:12:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:12:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+NOTIC: [8] Undefined index: id D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 62 行.
+
+[ 2015-05-31T17:13:11+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:13:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:14:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:14:29+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:18:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:18:52+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:19:58+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:20:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:20:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:20:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:20:55+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:20:57+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:22:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:22:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:28:54+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:28:56+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:29:04+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:29:06+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:29:20+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:29:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:29:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:29:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:36:16+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:36:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:36:26+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:36:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:37:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:37:30+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:41:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:41:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:41:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:41:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:41:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:41:34+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:43:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T17:43:30+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:43:35+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:43:37+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0070s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:44:41+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:44:43+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:47:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:47:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0070s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0020s ]
+
+[ 2015-05-31T17:47:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:47:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:49:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:49:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T17:49:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T17:49:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T17:51:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T17:51:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:01:29+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:01:44+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:01:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:01:52+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:02:11+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:02:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:02:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:02:17+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:del
+
+[ 2015-05-31T18:02:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:02:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:02:39+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:del
+
+[ 2015-05-31T18:03:05+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:03:06+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:03:11+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 3 [ RunTime:0.0800s ]
+
+[ 2015-05-31T18:03:20+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:03:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:03:58+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:04:12+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:04:28+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T18:04:29+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:04:30+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:04:34+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 4 [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:04:41+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:05:02+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:05:04+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:05:04+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:05:07+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 5 [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:05:28+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:05:48+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:05:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:05:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:06:17+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:06:44+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:06:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:06:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:06:51+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:07:16+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:07:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:07:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:07:23+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:07:44+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:07:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:07:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:07:48+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:08:08+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:08:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:08:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:08:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 6,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:08:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:08:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 6,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:08:17+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:08:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 6,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:08:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:08:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 6,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:08:29+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:09:50+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: DELETE FROM `my_article` WHERE `id` IN ('8','9') [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:09:55+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 6,6   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\web\www\myblog\app\Admin\Model\ArticleModel.class.php 第 60 行.
+
+[ 2015-05-31T18:09:56+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:10:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:10:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:11:05+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:11:07+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:11:08+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:11:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:11:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:11:13+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 6 [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:11:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:11:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:16:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:16:03+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:16:13+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 7 [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:16:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:16:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:35:07+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:35:30+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:35:31+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:35:32+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:35:37+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 11 [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:35:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:35:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:36:43+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:36:43+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:36:49+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:36:49+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:36:52+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:36:52+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:37:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T18:37:16+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:38:11+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:38:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:38:17+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:38:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:38:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:38:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:39:20+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:39:20+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:39:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:39:23+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:41:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:41:41+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:41:51+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:41:53+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:41:55+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:41:57+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:50:42+08:00 ] 127.0.0.1 /admin/article/del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: DELETE FROM `my_article` WHERE `id` = 2 [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:50:44+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T18:50:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T18:57:00+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:57:02+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0230s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:57:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:57:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T18:58:57+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T18:58:59+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:00:36+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:00:40+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:00:56+08:00 ] 127.0.0.1 /admin/article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:01:10+08:00 ] 127.0.0.1 /admin/setting/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:01:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:01:14+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:09:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:09:46+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:10:10+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:10:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:10:39+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:12:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:12:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:12:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:12:17+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:12:51+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T19:12:53+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:13:02+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:edit
+
+[ 2015-05-31T19:13:17+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:14:02+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:14:26+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:14:36+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:24:10+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fields方法不存在！
+
+[ 2015-05-31T19:24:21+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:25:57+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T19:31:30+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:34:37+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:34:38+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:34:39+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T19:35:30+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:40:16+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:40:20+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T19:40:32+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:40:32+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:40:35+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:42:45+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:43:37+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:43:44+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:43:52+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:44:45+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:44:48+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:44:56+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:45:03+08:00 ] 127.0.0.1 /admin/article/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:46:00+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:46:03+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:46:06+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:46:44+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:46:46+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T19:47:28+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:47:46+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:47:48+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:48:02+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:48:48+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:49:05+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:49:09+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:49:18+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:49:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-31T19:49:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:49:22+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:49:27+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:49:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:49:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:50:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-05-31T19:50:38+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:50:43+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:50:48+08:00 ] 127.0.0.1 /admin/article/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-31T19:50:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:50:50+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:51:04+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:51:05+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T19:51:08+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T19:51:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T19:51:12+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T19:51:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:14:27+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:14:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:15:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:15:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:15:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:15:28+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:16:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:16:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:16:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:16:25+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:16:31+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:16:31+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:16:56+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:16:56+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:17:30+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:17:30+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:17:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:17:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:17:36+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:17:36+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:17:45+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:17:47+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:18:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:18:21+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:20:05+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:20:07+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:20:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:20:11+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:20:13+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:20:15+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:22:17+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:22:19+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:22:22+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:22:24+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:22:59+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:23:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:23:04+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:23:05+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
+[ 2015-05-31T20:23:07+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:23:09+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0030s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:24:16+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:24:18+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:24:33+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-31T20:24:34+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0000s ]
+
+[ 2015-05-31T20:25:01+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-31T20:25:02+08:00 ] 127.0.0.1 /admin/article/list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `my_article` [ RunTime:0.0050s ]
+SQL: SELECT a.id,a.article_title,a.sort_id,a.click,a.add_time,a.a_hot,b.cate_name FROM my_article a left join my_category as b on b.id = a.sort_id  LIMIT 0,6   [ RunTime:0.0010s ]
+
